@@ -1,7 +1,7 @@
 # Usage_Funnels
 SQL queries to calculate usage funnels
 
-During this project we will analyze different Warby Parker marketing funnels in order to calculate conversion rates.
+### Purpose: During this project we will analyze different Warby Parker marketing funnels in order to calculate conversion rates.
 To help users find their perfect frame, Warby Parker prepared a Style Quiz with five questions, respectively.
 
 Here are the funnels and the tables that you are given:
